@@ -10,7 +10,7 @@ The main contribution of this paper is the proposal of D2SNet, a novel dual-task
 
 The Python code and dataset provided here are included in the version of the paper in IEEE Wireless Communications Letters.
 
-Thien Huynh-The, Huu-Tai Nguyen, Thai-Hoc Vu, Daniel Benevides da Costa, and Quoc-Viet Pham, "D2SNet: A Denoising-to-Segmentation Network for Enhanced 5G-LTE Spectrum Awareness," in IEEE Wireless Communications Letters, doi: 10.1109/LWC.2025.3608332, 2025. [[Link](https://ieeexplore.ieee.org/abstract/document/11157776)]
+Thien Huynh-The, Huu-Tai Nguyen, Thai-Hoc Vu, Daniel Benevides da Costa, and Quoc-Viet Pham, "D2SNet: A Denoising-to-Segmentation Network for Enhanced 5G-LTE Spectrum Awareness," in IEEE Wireless Communications Letters, vol. 14, no. 12, pp. 3942-3946, Dec. 2025, doi: 10.1109/LWC.2025.3608332. [[Link](https://ieeexplore.ieee.org/abstract/document/11157776)]
 
 The dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/huutai23012003/spectrogramj04/data). Please report if it is not available.
 
